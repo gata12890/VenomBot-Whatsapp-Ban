@@ -1,4 +1,6 @@
-pkg update && pkg upgrade
+pkg update && pkg upgrade 
+
+pkg install git
 
 pkg install mpv
 
@@ -18,7 +20,7 @@ when you finish install put that order
 
 sh venom sh 
 
-temb-cod
+temp-cod
 put country code without + ex... 45 
 
 put your number without country code ex... 23541093 
